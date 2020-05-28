@@ -1,0 +1,37 @@
+body {
+  margin:auto;
+  background-color: #FFFACD;
+}
+
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 3.5%;
+}
+.top {
+  background-color:#FFFACD ;
+  margin:0;
+  height: 700px;
+  width: 100%;
+}
+
+.mid {
+  background-color: white;
+  margin: 0;
+  height: 500px;
+  width: 100%;
+}
+.bot{
+
+  margin: 0;
+  height: 500px;
+  width: 100%;
+}
+.line{
+  color: white;
+  height:1px;
+  width:10%;
+}
